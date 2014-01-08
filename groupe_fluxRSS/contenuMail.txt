@@ -1,7 +1,3 @@
 Bonjour,
 
-Blablabla
-
-Blibblibli
-
-Blublublu
+ceci est le contenu du mail!!

@@ -1,2 +1,4 @@
-echo "Je confirme le RDV aujourd'hui à 12h." | mail -s "RDV OK" elodieboy91@gmail.com
-mail -s "Contenu du fichier contenuMail.txt" elodieboy91@gmail.com < contenuMail.txt
+#! /bin/sh
+SUBJECT=”le sujet de votre Email”
+EMAIL=”elodieboy91@gmail.com”
+echo $EMAILMESSAGE | /bin/mail -s “$SUBJECT” “$EMAIL”
