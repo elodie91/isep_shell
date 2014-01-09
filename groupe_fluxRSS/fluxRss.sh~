@@ -1,5 +1,1 @@
-#!/bin/bash
-
-cd ~/Documents/depot/isep_shell/isep_shell/groupe_fluxRSS
-
-echo "test" | mail -s "contenu fichier texte" elodieboy91@gmail.com 
+echo "Je confirme le RDV aujourd'hui à 12h." | mail -s "RDV OK" elodieboy91@gmail.com
