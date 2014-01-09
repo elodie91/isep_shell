@@ -1,1 +1,0 @@
-sed -i ’s/orange/wanadoo/g’ test.txt
